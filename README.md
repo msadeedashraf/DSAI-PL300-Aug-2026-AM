@@ -2,7 +2,6 @@
 
 - Study Modules
 [Book](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)
-
 [Link](https://learn.microsoft.com/en-us/training/courses/pl-300t00)
 
 - Lab Instructions
