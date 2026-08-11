@@ -20,14 +20,14 @@
 [AdventureWorksDW2020](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak)
 
 
-[1](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)
 
-[2](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
 
-[3](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-customer-profitability?source=recommendations)
+[Study guide for Exam PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
 
-[4](https://learn.microsoft.com/en-us/dax/)
+[Customer Profitability sample for Power BI: Take a tour](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-customer-profitability?source=recommendations)
 
-[Sample Datasets](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets#eight-original-samples)
+[Data Analysis Expressions (DAX) Reference](https://learn.microsoft.com/en-us/dax/)
 
-[Connecting to the Samples](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-tutorial-connect-to-the-samples)
+[What are Power BI samples](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets#eight-original-samples)
+
+[Tutorial: Explore a Power BI sample](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-tutorial-connect-to-the-samples)
